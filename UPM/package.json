@@ -1,0 +1,17 @@
+{
+    "name": "com.company.package",
+    "version": "0.0.1",
+    "displayName": "Brew Coffee Template",
+    "description": "Lets you brew coffee in your game.",
+    "unity": "2020.3",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {},
+    "keywords": [
+        "coffee",
+        "pour over",
+        "unity package manager template"
+    ],
+    "author": "Awesome Developer"
+}
